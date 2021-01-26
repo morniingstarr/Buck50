@@ -1,2 +1,2 @@
 # Buck50
-C++ software loader
+C++ software loader. Using cURL and DearImGui.
